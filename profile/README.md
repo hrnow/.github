@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hrnow/hrnow-app/refs/heads/main/public/hrnow.png?token=GHSAT0AAAAAADRLPVZYPST4MG6MCHGFSFWQ2KLQ7JQ" width="200px"/>
+<img src="https://raw.githubusercontent.com/hrnow/.github/refs/heads/main/hrnow.png" width="200px"/>
 
 [![Website](https://img.shields.io/badge/🌐_Visit-hrnow.asia-667eea?style=for-the-badge)](https://hrnow.asia)
 [![App](https://img.shields.io/badge/🚀_Launch-App-764ba2?style=for-the-badge)](https://app.hrnow.asia)
