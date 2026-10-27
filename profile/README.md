@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/hrnow/.github/refs/heads/main/hrnow.png" width="200px"/>
 
-[![Website](https://img.shields.io/badge/🌐_Visit-hrnow.asia-667eea?style=for-the-badge)](https://hrnow.asia)
-[![App](https://img.shields.io/badge/🚀_Launch-App-764ba2?style=for-the-badge)](https://app.hrnow.asia)
-[![Status](https://img.shields.io/badge/Status-Live-00d4aa?style=for-the-badge)](https://hrnow.asia)
+[![Website](https://img.shields.io/badge/🌐_Visit-hrnow.id-667eea?style=for-the-badge)](https://hrnow.id)
+[![App](https://img.shields.io/badge/🚀_Launch-App-764ba2?style=for-the-badge)](https://app.hrnow.id)
+[![Status](https://img.shields.io/badge/Status-Live-00d4aa?style=for-the-badge)](https://hrnow.id)
 
 </div>
 
@@ -88,9 +88,9 @@ Data protected with encryption and role-based access. Privacy-first compliance a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-contact@hrnow.asia-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@hrnow.asia)
+[![Email](https://img.shields.io/badge/Email-contact@hrnow.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrnow.id@gmail.id)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289621109422)
-[![Instagram](https://img.shields.io/badge/Instagram-@hrnow.asia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrnow.asia)
+[![Instagram](https://img.shields.io/badge/Instagram-@hrnow.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrnow.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HRNow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/hrnow)
 
 </div>
@@ -101,7 +101,7 @@ Data protected with encryption and role-based access. Privacy-first compliance a
 
 ### 📖 Learn More About Us
 
-[![About Us](https://img.shields.io/badge/Read_Our_Story-hrnow.asia/about--us-667eea?style=for-the-badge&logo=readme&logoColor=white)](https://hrnow.asia/about-us)
+[![About Us](https://img.shields.io/badge/Read_Our_Story-hrnow.id/about--us-667eea?style=for-the-badge&logo=readme&logoColor=white)](https://hrnow.id/about-us)
 
 </div>
 
