@@ -88,7 +88,7 @@ Data protected with encryption and role-based access. Privacy-first compliance a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-contact@hrnow.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrnow.id@gmail.id)
+[![Email](https://img.shields.io/badge/Email-hrnow.id@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrnow.id@gmail.id)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289621109422)
 [![Instagram](https://img.shields.io/badge/Instagram-@hrnow.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrnow.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HRNow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/hrnow)
